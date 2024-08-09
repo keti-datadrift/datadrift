@@ -1,7 +1,7 @@
 # datadrift_base_framework
 
 ## 주소
-- https://github.com/againeureka/datadrift_base_framework.git
+- https://github.com/keti-datadrift/datadrift_base_framework.git
 
 ## 개요
 - 데이터 드리프트 관리 기술의 기반 프레임워크입니다.
