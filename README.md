@@ -9,7 +9,7 @@
 - 종합 검토 기관 : 한국전자기술연구원(KETI)
 
 
-## 2024년 한국전자기술연구원 (KETI), 문서 및 코드 공유
+## 개념도
 
 <img src="./concept.png" width="100%" height="" title=""/>
 
