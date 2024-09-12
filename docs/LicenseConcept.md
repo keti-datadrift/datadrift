@@ -1,8 +1,11 @@
 # 라이선스 Q&A
 
 - Since 2024
-- By JPark with ChatGPT
- 
+- By JPark@KETI with ChatGPT
+
+
+
+
 
 ## 이종 라이선스간 융합
 
