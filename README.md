@@ -10,8 +10,8 @@
 
 
 ## 성과요약
-- [ ]
-- [Google](https:
+- 과제설명 및 성과공유 github [바로가기]()
+- 적용예: [Google](https://google.com, "google link")
 
 
 ## 개념도
